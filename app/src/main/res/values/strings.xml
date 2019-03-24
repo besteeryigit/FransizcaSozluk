@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FransizcaSozluk</string>
+    <string name="numbers">Sayılar</string>
+    <string name="family">Aile Üyeleri</string>
+    <string name="colors">Renkler</string>
+    <string name="phrases">Kalıp Cümleler</string>
+</resources>
